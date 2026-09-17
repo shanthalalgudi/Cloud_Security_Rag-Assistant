@@ -12,7 +12,7 @@ Competitive research is slow and scattered. To answer a question like "how does 
 
 Ask a cloud security comparison question in plain English and get an answer grounded in the source content, with citations back to where each claim came from. Instead of hunting through vendor pages, an enablement team gets a fast, sourced answer they can verify.
 
-![Cloud security RAG assistant answering a DLP capabilities question with source citations](images/dlp-capabilities.png)
+![Cloud security RAG assistant answering a DLP capabilities question with source citations](/dlp-capabilities.png)
 
 ## How It Works
 
